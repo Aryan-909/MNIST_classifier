@@ -1,4 +1,4 @@
 # MNIST_classifier
 Handwritten Digit classifier using sklearn
 
-Model is deployed on local host
+Used support vector machine
